@@ -40,7 +40,6 @@ class DBModel():
 
 
 
-
 class DBAccount(DBModel):
 
     def __init__(self, m_db):
